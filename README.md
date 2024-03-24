@@ -1,5 +1,5 @@
 ### Welcome :wave:
-
+---
 I am José, and I am currently working as a Data Science Senior Manager at Santander UK, where I am overseeing the model development lifecycle within the assets and liabilities sides of the bank's portfolio – these include **pricing optimisation**, **attrition modelling**, and **customer segmentation** :computer: :bar_chart:
 
 In this repository expecte to see personal projects related to data science, machine learning, financial mathematics, BI, and anything interesting that crosses my mind :thinking:
@@ -11,8 +11,8 @@ Outside of work and coding, I love to:
 - Burn the food by practising sports, namely football (or soccer for others) and running :soccer: :running:
 
 ### Technologies :computer:
+---
 #### Programming Languages & Data Frameworks :man_technologist:
-
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 #### BI Tools :bar_chart:
@@ -30,4 +30,5 @@ Outside of work and coding, I love to:
 and much more...!
 
 ### Contact me :postbox:
+---
 I am always looking to share ideas and collaborate on projects – email me (**joseartes95@gmail.com**) if interested.
